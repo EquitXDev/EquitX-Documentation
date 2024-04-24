@@ -27,8 +27,10 @@ If you notice a decrease in your eStock balance within the Stability Pool, it is
 There are several fees associated with participating in Stability Pools:
 
 1. A nominal ADA fee for initial deposits into a Stability Pool, redistributed as rewards to all pool contributors.
-2.A transaction fee (for deposits, withdrawals, or reward claims), also redistributed to contributors.
-3.A 2% fee on the total collateral rewards from liquidated CDPs, redistributed to EQTX stakers. As with all protocol parameters, this fee can be adjusted based on governance decisions by the community.
+
+2. A transaction fee (for deposits, withdrawals, or reward claims), also redistributed to contributors.
+
+3. A 2% fee on the total collateral rewards from liquidated CDPs, redistributed to EQTX stakers. As with all protocol parameters, this fee can be adjusted based on governance decisions by the community.
 
 
 ## What are Liquidations?
