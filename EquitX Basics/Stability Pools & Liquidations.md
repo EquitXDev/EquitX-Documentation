@@ -26,7 +26,7 @@ If you notice a decrease in your eStock balance within the Stability Pool, it is
 
 There are several fees associated with participating in Stability Pools:
 
-1. A nominal ADA fee for initial deposits into a Stability Pool, redistributed as rewards to all pool contributors.
+1. A nominal XLM fee for initial deposits into a Stability Pool, redistributed as rewards to all pool contributors.
 
 2. A transaction fee (for deposits, withdrawals, or reward claims), also redistributed to contributors.
 
