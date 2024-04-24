@@ -1,4 +1,4 @@
-What is EquitX?
+**What is EquitX?**
 EquitX is a decentralized investment platform designed to democratize access to the small-cap equity market. Utilizing blockchain technology, EquitX enables investors to participate in the financial growth of small-cap companies through synthetic assets called eStocks. These eStocks represent shares in the underlying assets, allowing users to invest in businesses that are typically out of reach due to high volatility, lower liquidity, and limited market exposure.
 
 Why Stellar?
