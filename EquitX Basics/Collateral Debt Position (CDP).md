@@ -25,4 +25,4 @@ EquitX introduces liquid staking, allowing users to earn returns on their collat
 
 **Stake Pool Changes**
 
-Should you decide to switch to a different stake pool, the ADA collateral in your CDP will automatically begin earning rewards from your newly selected pool, ensuring continuous reward accrual without any manual adjustments needed.
+Should you decide to switch to a different stake pool, the XLM collateral in your CDP will automatically begin earning rewards from your newly selected pool, ensuring continuous reward accrual without any manual adjustments needed.
