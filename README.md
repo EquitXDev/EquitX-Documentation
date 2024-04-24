@@ -10,12 +10,12 @@ EquitX is more than just an investment platform—it's a community-driven ecosys
 
 For more detailed information about EquitX and to understand how you can participate in our ecosystem, please visit the following pages:
 
-1. **[About EquitX](https://github.com/EquitXDev/EquitX-Documentation/blob/main/EquitX%20Basics/About%20EquitX.md):** Learn what EquitX is, why it was created, and what it aims to achieve. Discover the core principles behind our platform and how we aim to revolutionize small-cap investing.
+1. **[About EquitX](https://github.com/EquitXDev/EquitX-Documentation/blob/main/EquitX%20Basics/About%20EquitX.md)** 
 
-2. **[Collateral Debt Position (CDP)](https://github.com/EquitXDev/EquitX-Documentation/blob/main/EquitX%20Basics/Collateral%20Debt%20Position%20(CDP).md):** Understand the mechanics of how eStocks are minted and managed through our CDP system. This page explains the process of depositing collateral, minting eStocks, and managing your investments securely.
+2. **[Collateral Debt Position (CDP)](https://github.com/EquitXDev/EquitX-Documentation/blob/main/EquitX%20Basics/Collateral%20Debt%20Position%20(CDP).md)** 
 
-3. **[Stability Pools & Liquidations](https://github.com/EquitXDev/EquitX-Documentation/blob/main/EquitX%20Basics/Stability%20Pools%20%26%20Liquidations.md):** Dive into the details of Stability Pools, how they contribute to the health of the financial system on EquitX, and what happens during the liquidation process.
+3. **[Stability Pools & Liquidations](https://github.com/EquitXDev/EquitX-Documentation/blob/main/EquitX%20Basics/Stability%20Pools%20%26%20Liquidations.md)** 
 
-4. **[Governance](https://github.com/EquitXDev/EquitX-Documentation/blob/main/EquitX%20Basics/Governance.md):** Participate in the governance of EquitX by using EQTX tokens. This page will guide you through the process of voting on proposals and how you can help steer the future direction of the platform.
+4. **[Governance](https://github.com/EquitXDev/EquitX-Documentation/blob/main/EquitX%20Basics/Governance.md)** 
 
 EquitX is committed to providing a platform that not only meets the needs of today’s investors but also adapts to the future of finance. Join us on this journey to democratize access to small-cap investments and be part of a community that values transparency, security, and inclusivity.
