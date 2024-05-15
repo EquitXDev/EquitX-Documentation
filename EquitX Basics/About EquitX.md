@@ -22,9 +22,11 @@ EquitX is built on a foundation of security, transparency, and user-centric desi
 At EquitX, we introduce eStocks as a novel form of synthetic assets that provide exposure to small-cap equities. Unlike traditional assets, eStocks are not direct investments in stocks but are derivatives that track the performance of real-world assets through sophisticated smart contracts and real-time data provided by Oracles.
 
 **Availability of eStocks**
+
 Upon launch, EquitX will offer a variety of eStocks representing different sectors and industries, allowing investors to diversify their portfolios and access markets previously difficult to penetrate.
 
 **Types of Assets for eStocks**
+
 EquitX can transform any asset with a public price into an eStock, expanding the possibilities for investment. Our community-driven approach allows users to propose new eStocks, fostering a dynamic and responsive investment environment.
 
 
